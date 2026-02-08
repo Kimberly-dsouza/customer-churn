@@ -1,6 +1,7 @@
 # Bank Customer Churn Prediction
+This project is a decision-support analytics project designed to help businesses proactively retain customers at risk of leaving. The model prioritizes high-risk customers for targeted retention actions, enabling marketing teams to allocate retention budgets more effectively. 
 
-Concise end-to-end churn-prediction project using the "Churn_Modelling.csv" dataset. Demonstrates data preparation, imbalance handling, model comparison, model persistence, and a demo UI. This README highlights business metrics and how the project can be used to drive actionable retention decisions.
+It is a churn-prediction project using the "Churn_Modelling.csv" dataset. Demonstrates data preparation, imbalance handling, model comparison, model persistence, and a demo UI. This README highlights business metrics and how the project can be used to drive actionable retention decisions.
 
 <img width="215" height="307" alt="image" src="https://github.com/user-attachments/assets/677e13f0-a604-4200-b6bc-b390b72b6997" />
 
